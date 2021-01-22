@@ -17,7 +17,9 @@ The program is required to do the following:
 - The console helps keep track of the number of clicks left
 
 ## Clip of Winning a Game
+Winning a game only occurs after completing Round 5, as shown below.
 ![](https://github.com/GrantPau/Simon-Game/blob/main/Clips/winning-a-game.gif)
 
-## Clip of Losing on Round 2
+## Clip of Losing a Game
+In this example, the user pushes the wrong button during Round 2 and the 3 consecutive blinking lights indicates that it is game over.
 ![](https://github.com/GrantPau/Simon-Game/blob/main/Clips/losing-a-round.gif)
