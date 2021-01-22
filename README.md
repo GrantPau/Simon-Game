@@ -18,8 +18,10 @@ The program is required to do the following:
 
 ## Clip of Winning a Game
 Winning a game only occurs after completing Round 5, as shown below.
+<br/>
 ![](https://github.com/GrantPau/Simon-Game/blob/main/Clips/winning-a-game.gif)
 
 ## Clip of Losing a Game
 In this example, the user pushes the wrong button during Round 2 and the 3 consecutive blinking lights indicates that it is game over.
+<br/>
 ![](https://github.com/GrantPau/Simon-Game/blob/main/Clips/losing-a-round.gif)
