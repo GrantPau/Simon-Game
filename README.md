@@ -15,3 +15,9 @@ The program is required to do the following:
 - Each round adds an extra sequence to increase level of difficulty (ie. round 1 has 1 blinking LED, round 3 has 3 blinking LEDs)
 - As the round progresses, the program must remember the previous sequence and add one random sequence to increase difficulty (ie. round 2 is red --> green, round 3 is red --> green --> green)
 - The console helps keep track of the number of clicks left
+
+## Clip of Winning a Game
+![](https://github.com/GrantPau/Simon-Game/blob/main/Clips/winning-a-game.gif)
+
+## Clip of Losing on Round 2
+![](https://github.com/GrantPau/Simon-Game/blob/main/Clips/losing-a-round.gif)
