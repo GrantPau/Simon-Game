@@ -5,7 +5,7 @@ A game where a randomly-generated sequence is created and the user attempts to c
 
 
 ## Features
-The program is required to do as follows:
+The program is required to do the following:
 - Generate a random LED sequence for each round, for a total of 5 rounds
 - When a push button is pressed, turn on its corresponding LED light
 - User copies the sequence by pressing the LED's corresponsing button to progress
